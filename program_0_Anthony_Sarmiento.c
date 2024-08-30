@@ -1,6 +1,6 @@
 p//********************************************************
 // program-0.c
-// Author: Anthony Sarmiento
+// Author: Anthony Sarmiento 
 // Class: COP 3223, Professor Parra 
 // Purpose: This program prints a specific message to the
 // command line. The main purpose of this assignment is to
